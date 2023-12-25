@@ -29,7 +29,7 @@ Test the code with a modulo 10 counter, print its name, count three times until 
 
 ![Single_Modulo_n_Counter_Output](https://github.com/GirishTabaraddi/Modulo_Counter/blob/feature/apt-assignment-1-modulo-counter-commit-to-github/Single_Modulo_n_Counter_Output.png)
 
-##Multi_Digit_Counter
+## Multi_Digit_Counter
 
 The program from the previous exercise has to be expanded in order to handle not only counters with one digit but with m digits. For that, declare a new structure for a multiple digit counter, consisting of:
 	• a pointer for the address of an array of modulo n counters;
