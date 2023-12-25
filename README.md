@@ -27,7 +27,7 @@ Write functions which
 
 Test the code with a modulo 10 counter, print its name, count three times until the overflow while printing the actual count value after each counting step.
 
-![Single_Modulo_n_Counter_Output]()
+![Single_Modulo_n_Counter_Output](https://github.com/GirishTabaraddi/Modulo_Counter/blob/feature/apt-assignment-1-modulo-counter-commit-to-github/Single_Modulo_n_Counter_Output.png)
 
 ##Multi_Digit_Counter
 
@@ -45,4 +45,4 @@ Whenever it makes sense, call the functions of the modulo n counters from the pr
 
 Test the code. The user enters the number of digits (m) and the maximum count value of the counter (n). The program, creates and initializes a multiple digit counter, prints its name and counts until the overflow occurs while printing the current count value after each counting step. If the user enters an invalid maximum count value, the program stops. Don’t forget to release the memory!
 
-![Multi_Digit_Counter_Output]()
+![Multi_Digit_Counter_Output](https://github.com/GirishTabaraddi/Modulo_Counter/blob/feature/apt-assignment-1-modulo-counter-commit-to-github/Multi_Digit_Counter_Output.png)
