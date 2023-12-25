@@ -1,0 +1,66 @@
+package id20v1wla508ulola51fpph;
+
+/**
+@version 2.0
+@physicalPackage
+@__modelType diagram 
+*/
+class diagram {
+/**
+@__ref <oiref:cpp#Class#ModuloNCounter:oiref><oihard>
+@__modelType reference 
+*/
+class reference {
+}
+/**
+@__ref <oiref:cpp#Class#ModuloNDigitCounter:oiref><oihard>
+@__modelType reference 
+*/
+class reference3 {
+}
+}/**
+Modulo Counter Project
+@__tags
+@shapeType ClassDiagram
+@author GIRISH
+@changelog rO0ABXNyABFqYXZhLnV0aWwuSGFzaE1hcAUH2sHDFmDRAwACRgAKbG9hZEZhY3RvckkACXRocmVz
+aG9sZHhwP0AAAAAAAAx3CAAAABAAAAACc3IADmphdmEubGFuZy5Mb25nO4vkkMyPI98CAAFKAAV2
+YWx1ZXhyABBqYXZhLmxhbmcuTnVtYmVyhqyVHQuU4IsCAAB4cAAAAYRUiWAAc3IAE2phdmEudXRp
+bC5BcnJheUxpc3R4gdIdmcdhnQMAAUkABHNpemV4cAAAAAF3BAAAAApzcgAlZGUubW5sLmRvY2Jv
+b2s0VEEuaW1wbC5DaGFuZ2VMb2dFbnRyeQeNjrX5qiSfAgADTAAIaG9zdG5hbWV0ABJMamF2YS9s
+YW5nL1N0cmluZztMAARuYW1lcQB+AAhMAAR1c2VycQB+AAh4cHQACkhQLUFCNTIyVFh0AAk8ZGVm
+YXVsdD50AAZHaXJpc2h4c3EAfgACAAABhE9jBABzcQB+AAUAAAABdwQAAAAKc3EAfgAHdAAKSFAt
+QUI1MjJUWHQACTxkZWZhdWx0PnQABkdpcmlzaHh4
+@elementChangelogs rO0ABXNyABFqYXZhLnV0aWwuSGFzaE1hcAUH2sHDFmDRAwACRgAKbG9hZEZhY3RvckkACXRocmVz
+aG9sZHhwP0AAAAAAAAx3CAAAABAAAAACdAArPG9pcmVmOmNwcCNDbGFzcyNNb2R1bG9ORGlnaXRD
+b3VudGVyOm9pcmVmPnNxAH4AAD9AAAAAAAAMdwgAAAAQAAAAAnNyAA5qYXZhLmxhbmcuTG9uZzuL
+5JDMjyPfAgABSgAFdmFsdWV4cgAQamF2YS5sYW5nLk51bWJlcoaslR0LlOCLAgAAeHAAAAGEVIlg
+AHNyABNqYXZhLnV0aWwuQXJyYXlMaXN0eIHSHZnHYZ0DAAFJAARzaXpleHAAAAABdwQAAAAKc3IA
+JWRlLm1ubC5kb2Nib29rNFRBLmltcGwuQ2hhbmdlTG9nRW50cnkHjY61+aoknwIAA0wACGhvc3Ru
+YW1ldAASTGphdmEvbGFuZy9TdHJpbmc7TAAEbmFtZXEAfgAKTAAEdXNlcnEAfgAKeHB0AApIUC1B
+QjUyMlRYdAATTW9kdWxvTkRpZ2l0Q291bnRlcnQABkdpcmlzaHhzcQB+AAQAAAGET2MEAHNxAH4A
+BwAAAAF3BAAAAApzcQB+AAl0AApIUC1BQjUyMlRYdAATTW9kdWxvTkRpZ2l0Q291bnRlcnQABkdp
+cmlzaHh4dAAmPG9pcmVmOmNwcCNDbGFzcyNNb2R1bG9OQ291bnRlcjpvaXJlZj5zcQB+AAA/QAAA
+AAAADHcIAAAAEAAAAAJzcQB+AAQAAAGEVIlgAHNxAH4ABwAAAAF3BAAAAApzcQB+AAlxAH4ADHQA
+Dk1vZHVsb05Db3VudGVycQB+AA54c3EAfgAEAAABhE9jBABzcQB+AAcAAAABdwQAAAAKc3EAfgAJ
+cQB+ABJ0AA5Nb2R1bG9OQ291bnRlcnEAfgAUeHh4
+*/
+class __tags {
+}/**
+@__options option.detail = Implementation 
+*/
+class __options {
+}/**
+@__positions <oigroup:<oiref:cpp#Member#ModuloNCounter#operator++#(##)#:oiref>=60,180,324,16,1:oigroup>
+<oigroup:<oiref:cpp#Member#ModuloNCounter#$$constructor$$#(#int#)#:oiref>=130,130,244,16,1:oigroup>
+<oigroup:<oiref:cpp#Member#ModuloNDigitCounter#NDigitCounters#(##)#:oiref>=540,140,364,16,1:oigroup>
+<oigroup:<oiref:cpp#Member#ModuloNDigitCounter#NDigitCountersPrint#(#int#enum_counter_t#)#:oiref>=540,160,364,16,1:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#ModuloNDigitCounter#m_Counters:oiref>=540,140,390,140:oigroup>
+<oigroup:<oiref:cpp#Class#ModuloNCounter:oiref>=60,50,330,210,0:oigroup>
+<oigroup:Composite#supplierCardinality#MemberLink#<oiref:cpp#Member#ModuloNDigitCounter#m_Counters:oiref>=394,120,28,16,0:oigroup>
+<oigroup:<oiref:cpp#Member#ModuloNCounter#Counter#(##)#:oiref>=60,160,324,16,1:oigroup>
+<oigroup:<oiref:cpp#Member#ModuloNCounter#PassPreIncrementOF#(##)#:oiref>=60,190,324,16,1:oigroup>
+<oigroup:<oiref:cpp#Class#ModuloNDigitCounter:oiref>=540,50,370,200,0:oigroup>
+*/
+class __positions {
+}
